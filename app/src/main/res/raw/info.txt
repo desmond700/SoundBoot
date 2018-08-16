@@ -1,0 +1,1 @@
+SoundBoot is a music player app which streams music from spotify using the spotify api
